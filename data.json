@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Quito",
+    "subtitle": "Ecuador",
+    "longitude": -0.20069375197400663,
+    "latitude": -78.49109866461475,
+    "image": "https://raw.githubusercontent.com/devhalls/cardano-constitutional-workshop-2024/refs/heads/main/images/addis-ababa.png",
+    "images": [],
+    "dates": ["2024-10-19"],
+    "url": "https://lu.ma/3ay7ij45",
+    "icon": {
+      "background": "#FFFFFF",
+      "border": "#FFFFFF",
+      "width": 20,
+      "height": 20,
+      "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
+    }
+  },
+  {
+    "title": "Dubai",
+    "subtitle": "UAE",
+    "longitude": -0.20069375197400663,
+    "latitude": -78.49109866461475,
+    "image": "https://raw.githubusercontent.com/devhalls/cardano-constitutional-workshop-2024/refs/heads/main/images/dubai-uae.png",
+    "images": [],
+    "dates": ["2024-10-18"],
+    "url": "https://lu.ma/dzsnq870",
+    "icon": {
+      "background": "#FFFFFF",
+      "border": "#FFFFFF",
+      "width": 20,
+      "height": 20,
+      "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
+    }
+  }
+]
