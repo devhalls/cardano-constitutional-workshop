@@ -1,6 +1,61 @@
 [
   {
+    "title": "Argentina",
+    "description": "Constitutional Conference, all the elected delegates coming together to ratify (or not) the draft Constitution.",
+    "subtitle": "Kenya",
+    "longitude": -58.3867244564279,
+    "latitude": -34.587082166871205,
+    "image": null,
+    "images": [],
+    "dates": ["2024-12-02", "2024-12-03"],
+    "url": null,
+    "icon": {
+      "background": "#0033AD",
+      "border": "#0033AD",
+      "width": 44,
+      "height": 44,
+      "src": "https://raw.githubusercontent.com/devhalls/cardano-summit-2024/refs/heads/main/icons/cardano-icon-blue.png"
+    }
+  },
+  {
+    "title": "Nairobi",
+    "description": "Delegate synthesis workshop, as half the elected delegates coming together to continue the Constitutional Workshop process.",
+    "subtitle": "Kenya",
+    "longitude": 36.80731839206549,
+    "latitude": -1.2646256000004104,
+    "image": null,
+    "images": [],
+    "dates": ["2024-11-09", "2024-11-10"],
+    "url": null,
+    "icon": {
+      "background": "#0033AD",
+      "border": "#0033AD",
+      "width": 34,
+      "height": 34,
+      "src": "https://raw.githubusercontent.com/devhalls/cardano-summit-2024/refs/heads/main/icons/cardano-icon-blue.png"
+    }
+  },
+  {
+    "title": "Cost Rica",
+    "description": "Delegate synthesis workshop, as half the elected delegates coming together to continue the Constitutional Workshop process.",
+    "subtitle": "San Jose",
+    "longitude": -83.94021459059822,
+    "latitude": 9.940286171691065,
+    "image": null,
+    "images": [],
+    "dates": ["2024-11-02", "2024-11-03"],
+    "url": null,
+    "icon": {
+      "background": "#0033AD",
+      "border": "#0033AD",
+      "width": 34,
+      "height": 34,
+      "src": "https://raw.githubusercontent.com/devhalls/cardano-summit-2024/refs/heads/main/icons/cardano-icon-blue.png"
+    }
+  },
+  {
     "title": "Lagos",
+    "description": null,
     "subtitle": "Nigeria",
     "longitude": 3.442126815344259,
     "latitude": 6.46415357954747,
@@ -18,6 +73,7 @@
   },
   {
     "title": "Addis Ababa",
+    "description": null,
     "subtitle": "Ethiopia",
     "longitude": 38.7732509441803,
     "latitude": 8.991663024851428,
@@ -35,6 +91,7 @@
   },
   {
     "title": "Den Haag",
+    "description": null,
     "subtitle": "Netherlands",
     "longitude": 4.319639242327879,
     "latitude": 52.07134099099112,
@@ -52,6 +109,7 @@
   },
   {
     "title": "Luquillo",
+    "description": null,
     "subtitle": "Puerto Rico",
     "longitude": -65.71504377116396,
     "latitude": 18.3767888159598,
@@ -69,6 +127,7 @@
   },
   {
     "title": "Tokyo",
+    "description": null,
     "subtitle": "Sri Lanka",
     "longitude": 139.71280122834094,
     "latitude": 35.70283647613622,
@@ -86,6 +145,7 @@
   },
   {
     "title": "Colombo",
+    "description": null,
     "subtitle": "Sri Lanka",
     "longitude": 79.84933911534425,
     "latitude": 6.9293727589197465,
@@ -103,6 +163,7 @@
   },
   {
     "title": "Goma City",
+    "description": null,
     "subtitle": "DRC",
     "longitude": 29.232738557672118,
     "latitude": -1.687926395503834,
@@ -120,6 +181,7 @@
   },
   {
     "title": "Tamale",
+    "description": null,
     "subtitle": "Ghana",
     "longitude": -0.8466886134918137,
     "latitude": 9.425680527780154,
@@ -137,6 +199,7 @@
   },
   {
     "title": "São Paulo",
+    "description": null,
     "subtitle": "Brazil",
     "longitude": -23.5865691701895,
     "latitude": -46.64433241163938,
@@ -154,6 +217,7 @@
   },
   {
     "title": "Port Louis",
+    "description": null,
     "subtitle": "Mauritius",
     "longitude": 57.494151699999996,
     "latitude": -20.16253260222826,
@@ -171,6 +235,7 @@
   },
   {
     "title": "Belgrade",
+    "description": null,
     "subtitle": "Serbia",
     "longitude": 20.50287755952454,
     "latitude": 44.80393575853278,
@@ -188,6 +253,7 @@
   },
   {
     "title": "Bandung",
+    "description": null,
     "subtitle": "Indonesia",
     "longitude": 107.61206052167462,
     "latitude": -6.92375261522154,
@@ -205,6 +271,7 @@
   },
   {
     "title": "Taipei",
+    "description": null,
     "subtitle": "Taiwan",
     "longitude": 121.54552518650817,
     "latitude": 25.054857443684845,
@@ -222,6 +289,7 @@
   },
   {
     "title": "Seoul",
+    "description": null,
     "subtitle": "South Korea",
     "longitude": 126.98299236931152,
     "latitude": 37.5789449441286,
@@ -239,6 +307,7 @@
   },
   {
     "title": "Nairobi",
+    "description": null,
     "subtitle": "Kenya",
     "longitude": 36.80731839206549,
     "latitude": -1.2646256000004104,
@@ -256,6 +325,7 @@
   },
   {
     "title": "Geneva",
+    "description": null,
     "subtitle": "Switzerland",
     "longitude": 6.146987061669843,
     "latitude": 46.20185982459193,
@@ -273,6 +343,7 @@
   },
   {
     "title": "Caracas",
+    "description": null,
     "subtitle": "Venezuela",
     "longitude": -66.90857652883606,
     "latitude": 10.50718348089356,
@@ -290,6 +361,7 @@
   },
   {
     "title": "San Diego, CA",
+    "description": null,
     "subtitle": "USA",
     "longitude": -117.1708077883606,
     "latitude": 32.72098152133646,
@@ -307,6 +379,7 @@
   },
   {
     "title": "Bangalore",
+    "description": null,
     "subtitle": "India",
     "longitude": 77.6345544441803,
     "latitude": 12.933187846707348,
@@ -324,6 +397,7 @@
   },
   {
     "title": "Buenos Aires",
+    "description": null,
     "subtitle": "Argentina",
     "longitude": -58.37115192883607,
     "latitude": -34.59515426861377,
@@ -341,6 +415,7 @@
   },
   {
     "title": "Dar es salaam",
+    "description": null,
     "subtitle": "Tanzania",
     "longitude": 39.26457155309928,
     "latitude": -6.795473374663182,
@@ -358,6 +433,7 @@
   },
   {
     "title": "Thessaloniki",
+    "description": null,
     "subtitle": "Greece",
     "longitude": 22.910340228836056,
     "latitude": 40.64353832004284,
@@ -375,6 +451,7 @@
   },
   {
     "title": "Edinburgh",
+    "description": null,
     "subtitle": "Scotland",
     "longitude": -3.20606062883606,
     "latitude": 55.938165218299304,
@@ -392,6 +469,7 @@
   },
   {
     "title": "Asunción",
+    "description": null,
     "subtitle": "Paraguay",
     "longitude": -57.56475447301635,
     "latitude": -25.283811983326228,
@@ -409,6 +487,7 @@
   },
   {
     "title": "Bogota",
+    "description": null,
     "subtitle": "Colombia",
     "longitude": -74.06595644418032,
     "latitude": 4.622438454586721,
@@ -426,6 +505,7 @@
   },
   {
     "title": "Philadelphia",
+    "description": null,
     "subtitle": "USA",
     "longitude": -75.15820294232788,
     "latitude": 39.951058417929005,
@@ -443,6 +523,7 @@
   },
   {
     "title": "Chicago",
+    "description": null,
     "subtitle": "USA",
     "longitude": -87.71358984232783,
     "latitude": 41.93224187621436,
@@ -460,6 +541,7 @@
   },
   {
     "title": "Singapore",
+    "description": null,
     "subtitle": "Singapore",
     "longitude": 103.81121747018501,
     "latitude": 1.308486582036673,
@@ -477,6 +559,7 @@
   },
   {
     "title": "Ulaanbaatar",
+    "description": null,
     "subtitle": "Mongolia",
     "longitude": 106.92028314418029,
     "latitude": 47.916090366844905,
@@ -494,6 +577,7 @@
   },
   {
     "title": "Florida",
+    "description": null,
     "subtitle": "USA",
     "longitude": -81.88910093068847,
     "latitude": 26.663342900553886,
@@ -511,6 +595,7 @@
   },
   {
     "title": "Berlin",
+    "description": null,
     "subtitle": "Germany",
     "longitude": 13.430063022845838,
     "latitude": 52.49665201475282,
@@ -528,6 +613,7 @@
   },
   {
     "title": "Lisbon",
+    "description": null,
     "subtitle": "Portugal",
     "longitude": -9.144289769782468,
     "latitude": 38.72798225576944,
@@ -545,6 +631,7 @@
   },
   {
     "title": "Bobo Dioulasso",
+    "description": null,
     "subtitle": "Burkina Faso",
     "longitude": -4.2991151224608455,
     "latitude": 11.17027818748525,
@@ -562,6 +649,7 @@
   },
   {
     "title": "London",
+    "description": null,
     "subtitle": "England",
     "longitude": -0.07670429814758098,
     "latitude": 51.51217232714065,
@@ -579,6 +667,7 @@
   },
   {
     "title": "La Paz",
+    "description": null,
     "subtitle": "Bolivia",
     "longitude": -68.13598023068847,
     "latitude": -16.495658778549863,
@@ -596,6 +685,7 @@
   },
   {
     "title": "Rio de Janeiro",
+    "description": null,
     "subtitle": "Brazil",
     "longitude": -43.19665174232788,
     "latitude": -22.983656325951042,
@@ -613,6 +703,7 @@
   },
   {
     "title": "Vancouver",
+    "description": null,
     "subtitle": "Canada",
     "longitude": -123.05618152883603,
     "latitude": 49.109761480935944,
@@ -630,6 +721,7 @@
   },
   {
     "title": "Toronto",
+    "description": null,
     "subtitle": "Canada",
     "longitude": -79.38326601534423,
     "latitude": 43.65017383935103,
@@ -647,6 +739,7 @@
   },
   {
     "title": "Mexico City",
+    "description": null,
     "subtitle": "Mexico",
     "longitude": -99.18156635581968,
     "latitude": 19.32814230713165,
@@ -664,6 +757,7 @@
   },
   {
     "title": "Santander",
+    "description": null,
     "subtitle": "Spain",
     "longitude": -3.7661465962951626,
     "latitude": 43.46952751838406,
@@ -681,6 +775,7 @@
   },
   {
     "title": "Buea",
+    "description": null,
     "subtitle": "Cameroon",
     "longitude": 9.258620771163942,
     "latitude": 4.15433121230449,
@@ -698,6 +793,7 @@
   },
   {
     "title": "Oslo",
+    "description": null,
     "subtitle": "Norway",
     "longitude": 10.738650486508178,
     "latitude": 59.91423919328544,
@@ -715,6 +811,7 @@
   },
   {
     "title": "Varna",
+    "description": null,
     "subtitle": "Bulgaria",
     "longitude": 27.932956413491823,
     "latitude": 43.212077830563466,
@@ -732,6 +829,7 @@
   },
   {
     "title": "Bologna",
+    "description": null,
     "subtitle": "Italy",
     "longitude": 11.341224328836075,
     "latitude": 44.50946068020038,
@@ -749,6 +847,7 @@
   },
   {
     "title": "Harper",
+    "description": null,
     "subtitle": "Liberia",
     "longitude": -7.694145071163943,
     "latitude": 4.400473644200912,
@@ -766,6 +865,7 @@
   },
   {
     "title": "Santiago",
+    "description": null,
     "subtitle": "Chile",
     "longitude": -70.64693399629516,
     "latitude": -33.43805327989107,
@@ -783,6 +883,7 @@
   },
   {
     "title": "Perth",
+    "description": null,
     "subtitle": "Australia",
     "longitude": 115.82052711349182,
     "latitude": -31.98553140017618,
@@ -800,6 +901,7 @@
   },
   {
     "title": "Metro Manila",
+    "description": null,
     "subtitle": "Philippines",
     "longitude": 121.01917126931153,
     "latitude": 14.554916302843738,
@@ -817,6 +919,7 @@
   },
   {
     "title": "Washington, DC",
+    "description": null,
     "subtitle": "USA",
     "longitude": -76.99603739577027,
     "latitude": 38.87728303157677,
@@ -834,6 +937,7 @@
   },
   {
     "title": "Lima",
+    "description": null,
     "subtitle": "Peru",
     "longitude": -77.05170718650818,
     "latitude": -12.083383057471101,
@@ -851,6 +955,7 @@
   },
   {
     "title": "Tauranga, Aotearoa",
+    "description": null,
     "subtitle": "New Zealand",
     "longitude": 176.16715408650816,
     "latitude": -37.68635575767573,
@@ -868,6 +973,7 @@
   },
   {
     "title": "Austin, Texas",
+    "description": null,
     "subtitle": "USA",
     "longitude": -97.72106841957395,
     "latitude": 30.216114511486197,
@@ -885,6 +991,7 @@
   },
   {
     "title": "Quito",
+    "description": null,
     "subtitle": "Ecuador",
     "longitude": -78.49109866461475,
     "latitude": -0.20069375197400663,
@@ -902,6 +1009,7 @@
   },
   {
     "title": "Dubai",
+    "description": null,
     "subtitle": "United Arab Emirates",
     "longitude": 55.34978865324697,
     "latitude": 25.22352380092809,
