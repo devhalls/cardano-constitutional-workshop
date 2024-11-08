@@ -14,8 +14,9 @@
       "border": "#0033AD",
       "width": 44,
       "height": 44,
-      "src": "https://raw.githubusercontent.com/devhalls/cardano-summit-2024/refs/heads/main/icons/cardano-icon-blue.png"
-    }
+      "src": "https://raw.githubusercontent.com/devhalls/cardano-constutition-workshop-2024/refs/heads/main/icons/cardano-icon-blue.png"
+    },
+    "layer": 1
   },
   {
     "title": "Nairobi",
@@ -33,7 +34,8 @@
       "width": 34,
       "height": 34,
       "src": "https://raw.githubusercontent.com/devhalls/cardano-summit-2024/refs/heads/main/icons/cardano-icon-blue.png"
-    }
+    },
+    "layer": 1
   },
   {
     "title": "Cost Rica",
@@ -51,7 +53,8 @@
       "width": 34,
       "height": 34,
       "src": "https://raw.githubusercontent.com/devhalls/cardano-summit-2024/refs/heads/main/icons/cardano-icon-blue.png"
-    }
+    },
+    "layer": 1
   },
   {
     "title": "Lagos",
@@ -69,7 +72,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Addis Ababa",
@@ -87,7 +91,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Den Haag",
@@ -105,7 +110,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Luquillo",
@@ -123,7 +129,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Tokyo",
@@ -141,7 +148,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Colombo",
@@ -159,7 +167,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Goma City",
@@ -177,7 +186,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Tamale",
@@ -195,7 +205,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "São Paulo",
@@ -213,7 +224,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Port Louis",
@@ -231,7 +243,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Belgrade",
@@ -249,7 +262,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Bandung",
@@ -267,7 +281,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Taipei",
@@ -285,7 +300,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Seoul",
@@ -303,7 +319,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Nairobi",
@@ -321,7 +338,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Geneva",
@@ -339,7 +357,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Caracas",
@@ -357,7 +376,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "San Diego, CA",
@@ -375,7 +395,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Bangalore",
@@ -393,7 +414,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Buenos Aires",
@@ -411,7 +433,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Dar es salaam",
@@ -429,7 +452,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Thessaloniki",
@@ -447,7 +471,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Edinburgh",
@@ -465,7 +490,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Asunción",
@@ -483,7 +509,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Bogota",
@@ -501,7 +528,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Philadelphia",
@@ -519,7 +547,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Chicago",
@@ -537,7 +566,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Singapore",
@@ -555,7 +585,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Ulaanbaatar",
@@ -573,7 +604,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Florida",
@@ -591,7 +623,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Berlin",
@@ -609,7 +642,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Lisbon",
@@ -627,7 +661,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Bobo Dioulasso",
@@ -645,7 +680,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "London",
@@ -663,7 +699,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "La Paz",
@@ -681,7 +718,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Rio de Janeiro",
@@ -699,7 +737,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Vancouver",
@@ -717,7 +756,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Toronto",
@@ -735,7 +775,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Mexico City",
@@ -753,7 +794,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Santander",
@@ -771,7 +813,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Buea",
@@ -789,7 +832,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Oslo",
@@ -807,7 +851,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Varna",
@@ -825,7 +870,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Bologna",
@@ -843,7 +889,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Harper",
@@ -861,7 +908,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Santiago",
@@ -879,7 +927,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Perth",
@@ -897,7 +946,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Metro Manila",
@@ -915,7 +965,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Washington, DC",
@@ -933,7 +984,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Lima",
@@ -951,7 +1003,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Tauranga, Aotearoa",
@@ -969,7 +1022,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Austin, Texas",
@@ -987,7 +1041,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Quito",
@@ -1005,7 +1060,8 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   },
   {
     "title": "Dubai",
@@ -1023,6 +1079,7 @@
       "width": 20,
       "height": 20,
       "src": "https://raw.githubusercontent.com/devhalls/Cardano-Summit-2024/refs/heads/main/icons/cardano-icon.png"
-    }
+    },
+    "layer": 0
   }
 ]
